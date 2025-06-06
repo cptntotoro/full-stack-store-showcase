@@ -1,6 +1,6 @@
-[![Java CI with Maven](https://github.com/cptntotoro/yp-online-store-showcase/actions/workflows/maven.yml/badge.svg)](https://github.com/cptntotoro/yp-online-store-showcase/actions/workflows/maven.yml) [![Coverage Status](https://coveralls.io/repos/github/cptntotoro/yp-online-store-showcase/badge.svg)](https://coveralls.io/github/cptntotoro/yp-online-store-showcase)
+[![Java CI with Maven](https://github.com/cptntotoro/yp-online-store-showcase/actions/workflows/maven.yml/badge.svg)](https://github.com/cptntotoro/full-stack-store-showcase/actions/workflows/maven.yml) [![Coverage Status](https://coveralls.io/repos/github/cptntotoro/full-stack-store-showcase/badge.svg)](https://coveralls.io/github/cptntotoro/full-stack-store-showcase)
 
-# Приложение "Витрина онлайн-магазина"
+# Приложение "Онлайн-магазин"
 Java 21, Spring Boot, Hibernate, PostgreSQL, Lombok, Mapstruct, Maven, Docker, Thymeleaf, HTML, CSS, JavaScript
 
 ## О проекте
